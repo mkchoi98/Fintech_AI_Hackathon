@@ -1,5 +1,4 @@
-# Fintech_AI_Hackathon
-
+* * *
 ## Table of Contents
 
 ## Project Introduction
