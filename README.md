@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/59993071/91258055-6434f100-e7a6-11ea-8f01-39e45af9d485.png" alt="원스 logo" width="300" height="300">
 </p>
 
-<h3 align="center">한 번에 - Once</h3>
+<h3 align="center">한 번에 : Once</h3>
 
 <p align="center">
   앵커밸류 FINTECH-AI-HACKATHON
