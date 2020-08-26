@@ -39,7 +39,7 @@
 
 ## Bugs and Feature Requests
 
-[**Please do requests here.**](https://github.com/alsrud9909/ICT_Coc_AI_contest/issues)
+[**Please do requests here.**](https://github.com/alsrud9909/Fintech_AI_Hackathon/issues)
 
 
 ## About the Contributor
