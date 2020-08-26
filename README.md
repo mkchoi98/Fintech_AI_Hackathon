@@ -1,14 +1,46 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/59993071/91258055-6434f100-e7a6-11ea-8f01-39e45af9d485.png" alt="원스 logo" width="300" height="300">
+</p>
+
+<h3 align="center">한 번에 - Once</h3>
+
+<p align="center">
+  앵커밸류 FINTECH-AI-HACKATHON
+</p>
+
+
 * * *
+
+
 ## Table of Contents
+
+- [Project Introduction](#Project-Introduction)
+- [Project Development Environment and Language](#Project-Development-Environment-and-Language)
+- [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
+- [About the Contributor](#About-the-Contributor)
+
 
 ## Project Introduction
 
-## Project Dependencies
-### Front
+### 다음 달 소비 예측을 통한 카드 추천 및 통합 카드 APP 서비스
 
-### AI
+**프로젝트 목적**
 
-## How to run
+- 다음 달 소비 예측을 통한 카드 추천
+- 여러 장의 카드를 하나로 통합한 앱 개발
+
+**서비스 타깃**
+
+- 나의 소비에 따른 최적의 카드 혜택을 누리고 싶은 사람
+- 여러 장의 카드를 들고 다니는 것에 대해 불편함을 느끼는 사람
+
+## Project Development Environment and Language
+
+
+## Bugs and Feature Requests
+
+[**Please do requests here.**](https://github.com/alsrud9909/ICT_Coc_AI_contest/issues)
+
 
 ## About the Contributor
 
@@ -23,3 +55,6 @@
 **Yu SiEun**
 - [**@momoziri**](https://github.com/momoziri)
 - <dbtldm@ajou.ac.kr>
+
+
+* * *
