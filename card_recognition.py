@@ -116,7 +116,6 @@ def ExtractNumber():
           return
 
      print("\n카드 번호 [", result_list[0], "-", result_list[1], "-", result_list[2], "-", result_list[3],"] 가 맞습니까?")
-     #print("유효 기간 : ", result_list[1])
 
      return
 
