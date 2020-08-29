@@ -37,7 +37,7 @@
 ## Project Dependencies
 
 ### OS
-- Windows10
+- Windows10, macOS
 
 ### AI
 - python v3.6.9, tensorflow v1.15.0, opencv v4.4.0, pytesseract
