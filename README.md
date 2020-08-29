@@ -39,14 +39,14 @@
 ### OS
 - Windows10, macOS
 
+### AI
+- python v3.6.9, tensorflow v1.15.0, opencv v4.4.0, pytesseract
+
 ### Front-end (추후 개발 예정)
 - react.js
 
 ### Back-end (추후 개발 예정)
 - Django
-
-### AI
-- python v3.6.9, tensorflow v1.15.0, opencv v4.4.0, pytesseract
 
 
 ## Bugs and Feature Requests
