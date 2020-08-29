@@ -22,6 +22,7 @@ def cap():
          if k%256 == 27:
              # ESC pressed
              print("Escape hit, closing...")
+               
              break
              
          elif k%256 == 32:
