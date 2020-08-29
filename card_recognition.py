@@ -23,19 +23,21 @@ def cap():
              # ESC pressed
              print("Escape hit, closing...")
              break
+             
          elif k%256 == 32:
              # SPACE pressed
-             img_name = "opencv_frame_{}.jpg".format(img_counter)
+             img_name = "opencv_frame.jpg".format(img_counter)
              cv2.imwrite(img_name, frame)
              print("{} written!".format(img_name))
-             img_counter += 1
+
+             return
 
      cam.release()
 
      cv2.destroyAllWindows()
 
 def ExtractNumber():
-     Number = 'testimg3.jpg'
+     Number = 'opencv_frame.jpg'
      img = cv2.imread(Number, cv2.IMREAD_COLOR)
      copy_img = img.copy()
      img2 = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
