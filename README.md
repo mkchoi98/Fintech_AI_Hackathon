@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Project Introduction](#Project-Introduction)
-- [Project Development Environment and Language](#Project-Development-Environment-and-Language)
+- [Project Dependencies](#Project-Dependencies)
 - [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
 - [About the Contributor](#About-the-Contributor)
 
@@ -34,7 +34,13 @@
 - 나의 소비에 따른 최적의 카드 혜택을 누리고 싶은 사람
 - 여러 장의 카드를 들고 다니는 것에 대해 불편함을 느끼는 사람
 
-## Project Development Environment and Language
+## Project Dependencies
+
+### OS
+- Windows10
+
+### AI
+- python v3.6.9, tensorflow v1.15.0, opencv v4.4.0, pytesseract
 
 
 ## Bugs and Feature Requests
