@@ -58,7 +58,7 @@
 
 **Choi MinKyeong**
 - [**@alsrud9909**](https://github.com/alsrud9909)   
-- <csipms1023@gmail.com>  
+- <mkchoe@sju.ac.kr>  
 
 **Han MiSil**
 - [**@hanmisil**](https://github.com/hanmisil)
