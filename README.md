@@ -57,7 +57,7 @@
 ## About the Contributor
 
 **Choi MinKyeong**
-- [**@alsrud9909**](https://github.com/alsrud9909)   
+- [**@mkchoi98**](https://github.com/alsrud9909)   
 - <mkchoe@sju.ac.kr>  
 
 **Han MiSil**
